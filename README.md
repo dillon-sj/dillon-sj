@@ -13,7 +13,7 @@ Hi 👋, I'm Dillon Steve Juriansz<br>I am passionate and self- motivated develo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dillon-sj&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dillon-sj&theme=midnight-purple&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dillon-sj&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dillon-sj&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
@@ -22,3 +22,6 @@ Hi 👋, I'm Dillon Steve Juriansz<br>I am passionate and self- motivated develo
 [![](https://visitcount.itsvg.in/api?id=dillon-sj&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
