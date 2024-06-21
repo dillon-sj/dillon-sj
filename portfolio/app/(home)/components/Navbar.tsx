@@ -11,7 +11,7 @@ export default function Navbar() {
       Icon: SiLinkedin,
     },
     {
-      link: "https://www.linkedin.com/in/dillon-sj/",
+      link: "https://github.com/dillon-sj",
       label: "GitHub",
       Icon: SiGithub,
     },
@@ -19,7 +19,7 @@ export default function Navbar() {
 
   return (
     <nav className=" py-10 flex justify-between items-center ">
-      <h1 className="text-2xl font-bold underline-offset-8 decoration-green-500 -rotate-1">
+      <h1 className="text-2xl font-bold underline underline-offset-8 decoration-purple-500 -rotate-1">
         Dillon Steve Juriansz{" "}
       </h1>
       <div className="flex items-center gap-5">
