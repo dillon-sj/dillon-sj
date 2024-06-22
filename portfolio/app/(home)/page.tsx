@@ -5,9 +5,12 @@ import LandingSection from "./components/LandingSection";
 export default function page() {
   return (
     <div className="min-h-screen bg-black overflow-hidden ">
-      <div className="max-w-7xl mx-auto p-5 dark:bg-grid-white/[0.2] bg-grid-black/[0.2] ">
-        <Navbar />
-        <LandingSection />
+      {/* this is the bg grid box line  */}
+      <div className="dark:bg-grid-white/[0.06] bg-grid-black/[0.2] ">
+        <div className="max-w-7xl mx-auto p-5 ">
+          <Navbar />
+          <LandingSection />
+        </div>
       </div>
     </div>
   );
