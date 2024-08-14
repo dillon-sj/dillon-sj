@@ -23,5 +23,6 @@ Hi 👋, I'm Dillon Steve Juriansz<br>I am passionate and self- motivated develo
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<a href="https://app.daily.dev/dillonstevejuriansz"><img src="https://api.daily.dev/devcards/v2/xj2BWYhZgj3BfAsU09EnG.png?r=kcj&type=default" width="356" alt="Dillon Steve Juriansz's Dev Card"/></a>
 
 
