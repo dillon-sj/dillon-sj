@@ -15,13 +15,9 @@ Hi 👋, I'm Dillon Steve Juriansz<br>I am passionate and self- motivated develo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dillon-sj&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dillon-sj&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dillon-sj&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a href="https://app.daily.dev/dillonstevejuriansz"><img src="https://api.daily.dev/devcards/v2/xj2BWYhZgj3BfAsU09EnG.png?r=kcj&type=wide" width="652" alt="Dillon Steve Juriansz's Dev Card"/></a>
-
+<a href="https://app.daily.dev/dillonstevejuriansz"><img src="https://api.daily.dev/devcards/v2/xj2BWYhZgj3BfAsU09EnG.png?type=default&r=sai" width="356" alt="Dillon Steve Juriansz's Dev Card"/></a>
