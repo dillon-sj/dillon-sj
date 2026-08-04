@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Dillon%20Steve%20Juriansz&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%" alt="" />
 
-<a href="https://github.com/dillon-sj"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=9745F5&center=true&vCenter=true&width=600&lines=Undergraduate+at+University+of+Westminster;Building+for+the+web+with+React+%26+Next.js;Always+shipping%2C+always+learning" alt="" /></a>
+<a href="https://github.com/dillon-sj"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=9745F5&center=true&vCenter=true&width=600&lines=Undergraduate+at+University+of+Westminster;Researching+AI+safety+%26+LLM+red+teaming;Always+shipping%2C+always+learning" alt="" /></a>
 
 </div>
 
@@ -18,19 +18,18 @@
 Hi 👋 I'm Dillon — a self-motivated developer based in Colombo, Sri Lanka, currently
 reading for my degree at the University of Westminster.
 
-<!-- TODO: swap this line for whatever you're actually building right now -->
-- 🔭 Currently building things with **React**, **Next.js** and **TypeScript**
-<!-- TODO: update — this is carried over from your old README -->
-- 🌱 Comfortable in **Java** and **Python**, and always picking up something new
-<!-- TODO: delete if you'd rather not advertise this -->
-- 💬 Happy to talk about web development, mobile apps, or anything you're stuck on
-<!-- TODO: add a mailto badge below once you decide which address to use publicly -->
-- 📫 Reach me on LinkedIn
+- 🔬 Researching **AI safety** — building **MIMIC**, a framework that probes where large
+  language models' guardrails quietly give way *(private repo, for now 🤫)*
+- 🔭 Alongside that, a rotating cast of personal projects I build to scratch my own itches
+- 🌱 Working mainly in **Python**, **TypeScript** and **Java** — in that order
+- 💬 Ask me about LLM red teaming, AI safety, or anything web — I'll happily go too deep
+- 📫 Reach me on LinkedIn or by email
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dillon-sj)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dillon-sj)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ds.juriansz@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -38,7 +37,7 @@ reading for my degree at the University of Westminster.
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,html,css&perline=9" alt="Java, Python, JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,tailwind,html,css&perline=9" alt="Python, TypeScript, JavaScript, Java, React, Next.js, Tailwind CSS, HTML, CSS" />
 
 **Databases & Tools**
 
