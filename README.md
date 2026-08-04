@@ -1,38 +1,63 @@
-# 💫 About Me:
-Hi 👋, I'm Dillon Steve Juriansz<br>I am passionate and self- motivated developer from Srilanka<br>I am currently learning JS and frame works like ReactJS and React Native<br>You can ask me about JAVA, Python
+<!--
+  Note: the banner, tagline and activity graph below are rendered by free
+  third-party services. If one of them ever shows a broken image, that service
+  has gone down or hit its hosting quota — just delete that line. The previous
+  version of this README lost its stats cards and trophies exactly that way.
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dillon-sj) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Dillon%20Steve%20Juriansz&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%" alt="" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<a href="https://github.com/dillon-sj"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=9745F5&center=true&vCenter=true&width=600&lines=Undergraduate+at+University+of+Westminster;Building+for+the+web+with+React+%26+Next.js;Always+shipping%2C+always+learning" alt="" /></a>
 
-# 📊 GitHub Stats:
+</div>
 
-<table>
-  <tr>
-    <td>
-  
-  ![](https://github-readme-stats.vercel.app/api?username=dillon-sj&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-      ![](https://github-readme-streak-stats.herokuapp.com/?user=dillon-sj&theme=midnight-purple&hide_border=true&card_width=495)<br/>
-      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dillon-sj&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=495)
-    </td>
-    <td>
-      <a href="https://app.daily.dev/dillonstevejuriansz"><img src="https://api.daily.dev/devcards/v2/xj2BWYhZgj3BfAsU09EnG.png?type=default&r=sai" width="356" alt="Dillon Steve Juriansz's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
+## 💫 About Me
 
+Hi 👋 I'm Dillon — a self-motivated developer based in Colombo, Sri Lanka, currently
+reading for my degree at the University of Westminster.
 
+<!-- TODO: swap this line for whatever you're actually building right now -->
+- 🔭 Currently building things with **React**, **Next.js** and **TypeScript**
+<!-- TODO: update — this is carried over from your old README -->
+- 🌱 Comfortable in **Java** and **Python**, and always picking up something new
+<!-- TODO: delete if you'd rather not advertise this -->
+- 💬 Happy to talk about web development, mobile apps, or anything you're stuck on
+<!-- TODO: add a mailto badge below once you decide which address to use publicly -->
+- 📫 Reach me on LinkedIn
 
+## 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dillon-sj)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dillon-sj)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dillon-sj&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,html,css&perline=9" alt="Java, Python, JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,figma,vscode&perline=6" alt="MySQL, Firebase, Git, GitHub, Figma, VS Code" />
+
+</div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dillon-sj&theme=react-dark&hide_border=true&area=true&color=9745f5&line=9745f5&point=ffffff" width="100%" alt="Dillon's contribution activity over the last 31 days" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dillon-sj&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=dillon-sj&style=flat&color=9745f5&label=Profile+views" alt="Profile views" />
+
+</div>
