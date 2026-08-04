@@ -25,7 +25,7 @@ reading for my degree at the University of Westminster.
 - 🔬 Researching **AI safety** — building **MIMIC**, a framework that probes where large
   language models' guardrails quietly give way *(private repo, for now 🤫)*
 - 🔭 Alongside that, a rotating cast of personal projects I build to scratch my own itches
-- 🌱 Working mainly in **Python**, **TypeScript** and **Java** — in that order
+- 🌱 Working mainly in **Python**, **TypeScript** and **Java** 
 - 💬 Ask me about LLM red teaming, AI safety, or anything web — I'll happily go too deep
 - 📫 Reach me on LinkedIn or by email
 
