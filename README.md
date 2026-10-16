@@ -23,10 +23,10 @@ Software Engineer and First Class Honours Computer Science graduate from the Uni
 
 ## Featured Projects
 
-### [MIMIC: Modular Semantic Mutation Engine for LLM Red Teaming](https://github.com/dillon-sj/mimic-llm-redteaming)
+### [MIMIC: Modular Semantic Mutation Engine for LLM Red Teaming (System Architecture Whitepaper)](https://github.com/dillon-sj/mimic-llm-redteaming)
 * **First Place, Best Final Year Project in Computer Science** at PROJEXPO (IIT CuttingEdge '26).
 * **National ICT Awards (NBQSA) 2026 entrant** (Tertiary Technology).
-* Automated 3-stage generative mutation framework elevating adversarial attack success rate from 17% to 66% (3.9x gain).
+* Automated 3-stage generative mutation framework achieving a **3.9$\times$ lift in vulnerability discovery** over baseline evaluations.
 * Features a high-concurrency AsyncIO engine, multi-provider ModelAdapter abstraction (Gemini, Groq, Mistral, OpenRouter), and automated LLM-as-a-Judge validation layer (Cohen's kappa = 0.75).
 * Evaluated against NIST AI Risk Management Framework (NIST AI RMF 1.0) standards.
 
